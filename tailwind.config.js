@@ -1,10 +1,14 @@
 module.exports = {
   mode: 'jit',
   content: [
-    './*.{html}'
+    './*.html'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        IBM: "'IBM Plex Sans', sans-serif;",
+      }
+    },
   },
   plugins: [
       require('@tailwindcss/forms'),
