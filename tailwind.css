@@ -889,14 +889,6 @@ select {
   background-color: rgb(252 250 249 / var(--tw-bg-opacity));
 }
 
-.fill-\[\#FA7453\] {
-  fill: #FA7453;
-}
-
-.stroke-\[\#FA7453\] {
-  stroke: #FA7453;
-}
-
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -988,11 +980,6 @@ select {
 .text-\[\#FCFAF9\] {
   --tw-text-opacity: 1;
   color: rgb(252 250 249 / var(--tw-text-opacity));
-}
-
-.text-\[\#FA7453\] {
-  --tw-text-opacity: 1;
-  color: rgb(250 116 83 / var(--tw-text-opacity));
 }
 
 .me-4 {
