@@ -11,11 +11,11 @@ Install all dependencies:
 ```
 npm install
 ```
-Build the tailwind.css file:
+Build tailwind.css file:
 ```
 npm run build-css
 ```
-Run the local server:
+Run local server:
 ```
 npm run start
 ```
@@ -26,13 +26,12 @@ Install all dependencies:
 ```
 yarn install
 ```
-Build the tailwind.css file:
+Build tailwind.css file:
 ```
 yarn run build-css
 ```
-Run the local server:
+Run local server:
 ```
 yarn run start
-
-#
+```
 
